@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm Currently A 4th Tear B.tech Student
-
+Enthusiastic graduate with a solid understanding of core concepts and practical experience gained through academic 
+projects. Possesses strong problem-solving abilities, adaptability, and a strong willingness to learn. Eager to apply 
+theoretical knowledge to real-world challenges, learn new technologies quickly, and contribute effectively to a dynamic 
+team. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thakur_krishna._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-singh-579513375) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Krishna Kunal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Lonewolf._cw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnakunal2640@gmail.com) 
